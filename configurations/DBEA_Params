@@ -1,0 +1,4 @@
+divisions 90 200
+maxEvaluations 500 20000
+ux.rate 0.8 1.0
+bf.rate 0.01 0.6

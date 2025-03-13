@@ -1,0 +1,5 @@
+populationSize 90 200
+divisions 90 200
+maxEvaluations 500 20000
+ux.rate 0.8 1.0
+bf.rate 0.001 0.6

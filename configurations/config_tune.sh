@@ -1,0 +1,3 @@
+NSEEDS=30
+METHOD=saltelli
+NSAMPLES=25
