@@ -73,7 +73,7 @@ pandas       1.5.3
 scipy        1.10.1
 seaborn      0.12.2
 ```
-ScyPy: [https://scipy.org/](https://scipy.org/)
-Matplotlib: [https://matplotlib.org/](https://matplotlib.org/)
-Seaborn: [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
-Pandas: [https://pandas.pydata.org/](https://pandas.pydata.org/)
+* ScyPy: [https://scipy.org/](https://scipy.org/)
+* Matplotlib: [https://matplotlib.org/](https://matplotlib.org/)
+* Seaborn: [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+* Pandas: [https://pandas.pydata.org/](https://pandas.pydata.org/)
