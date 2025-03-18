@@ -20,11 +20,15 @@ Workflow technologies are useful tools for handling scientific applications. Usu
 
 To reproduce the experiments, please use the following entry-point script and command:
 
-```bash scripts/run.sh```
+```
+bash scripts/run.sh
+```
 
 The output of the experiments will be placed in the following folder:
 
-```results/```
+```
+results/
+```
 
 ### Output
 
